@@ -1,0 +1,2 @@
+# GDScriit-Academy
+Learn GDscript
